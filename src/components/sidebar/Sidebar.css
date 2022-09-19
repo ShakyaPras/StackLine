@@ -1,0 +1,46 @@
+.sidebar {
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20vw;
+  min-width: 225px;
+  height: 100vh;
+  margin-left: 1.25vw;
+  border-radius: 5px;
+  background-color: #ffffff;
+  box-shadow: 0.2vw 0 0.5vw 0.1vw rgba(0, 0, 0, 0.1);
+}
+
+.product-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+}
+
+.sidebar-image {
+  width: 80%;
+  margin: 30px 0 50px;
+}
+
+.sidebar-title {
+  color: #323e52;
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.sidebar-subtitle {
+  text-align: center;
+  color: #aaadb8;
+  line-height: 30px;
+  font-size: 18px;
+}
+
+.sidebar-tags {
+  border-bottom: 2px solid #f4f5f8;
+  border-top: 2px solid #f4f5f8;
+  margin: 20px 0;
+}

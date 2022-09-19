@@ -1,0 +1,38 @@
+table {
+  display: table;
+  width: 76vw;
+  height: auto;
+  background-color: #ffffff;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+tr td,
+tr th {
+  border-bottom: 2px solid #f4f5f8;
+}
+
+.table-heading {
+  font-weight: normal;
+  color: #5d5c5c;
+  width: 15vw;
+  height: 100px;
+}
+
+.table-heading:hover {
+  cursor: pointer;
+  color: #2a2a2a;
+  font-size: 21px;
+  transition: font-size 0.1s ease-in;
+}
+
+.table-data {
+  width: 15vw;
+  height: 60px;
+  text-align: center;
+  color: #aaadb8;
+}
+
+.down-arrow {
+  width: 15px;
+}

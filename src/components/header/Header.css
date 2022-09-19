@@ -1,0 +1,13 @@
+.header {
+  background-color: #052849;
+  height: 8vh;
+  position: relative;
+}
+
+.logo {
+  position: absolute;
+  left: 1.5vw;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 1.5vw;
+}

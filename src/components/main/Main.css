@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  min-width: 480px;
+  margin-top: 8vh;
+  height: auto;
+}
+
+.content-main {
+  display: flex;
+  flex-direction: column;
+  margin: 0 1.25vw 0 1.5vw;
+  width: 76vw;
+}
