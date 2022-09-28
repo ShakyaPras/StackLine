@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## URL to view the web page
 
-[LINK:](https://stackline-graph-chart.netlify.app/) https://stackline-graph-chart.netlify.app/
+[LINK:](https://data-presenter-pras.netlify.app/) https://data-presenter-pras.netlify.app/
 
 ## Available Scripts
 
